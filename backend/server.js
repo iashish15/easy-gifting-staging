@@ -39,6 +39,7 @@ app.use(
       "http://localhost:5173",
       "http://localhost:5174",
       "https://easygifting.in",
+      "https://easy-gifting-staging.vercel.app",
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS", "PATCH"],
     allowedHeaders: ["Content-Type", "Authorization"],
