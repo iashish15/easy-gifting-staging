@@ -253,7 +253,7 @@ const CategoryShowcase: React.FC = () => {
             viewport={{ once: true }}
           >
             <Link
-              to="/shop"
+              to="/categories"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl border-2 border-primary-300 text-primary-700 font-semibold text-sm hover:bg-primary-50 transition-all duration-200 hover:-translate-y-0.5"
             >
               <FaLayerGroup className="w-4 h-4" />

@@ -85,7 +85,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ banner }) => {
             size="lg"
             className="border-white text-white hover:bg-white hover:text-primary-600"
           >
-            <Link to="/about">Our Story</Link>
+            <Link to="/our-story">Our Story</Link>
           </Button>
         </motion.div>
 
